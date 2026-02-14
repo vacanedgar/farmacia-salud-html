@@ -97,9 +97,9 @@ button:hover {
   background-color: #2e7d32;
 }
 .header {
-  background-color: #1b5e20;
+  background-color: #4e6d4f;
   color: white;
-  padding: 20px;
+  padding: 30px;
   text-align: center;
   display: flex;
   flex-direction: column; /* para poner logo arriba del título */
@@ -107,6 +107,6 @@ button:hover {
 }
 
 .header .logo {
-  width: 80px; /* ajusta el tamaño */
+  width: 100px; /* ajusta el tamaño */
   margin-bottom: 10px;
 }

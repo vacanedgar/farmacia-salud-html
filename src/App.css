@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+@media (max-width: 768px) {
+  nav {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .productos-container {
+    padding: 20px;
+  }
+
+  h1 {
+    font-size: 22px;
+  }
+}
+
